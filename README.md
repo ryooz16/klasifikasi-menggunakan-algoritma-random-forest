@@ -75,9 +75,9 @@ Youtube : https://youtu.be/LEWjsBhR45Q
 ---
 
 ## Kontributor
-Billie Raditya Akbar 
-Hamzah Fachrudin M
-Imaddudin Ghozali
-Moh Mahmud Yunus
-Rio Permana M
+1. Billie Raditya Akbar 
+2. Hamzah Fachrudin M
+3. Imaddudin Ghozali
+4. Moh Mahmud Yunus
+5. Rio Permana M
 

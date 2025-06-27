@@ -72,4 +72,12 @@ Dengan visualisasi heatmap dan bar chart, kita dapat dengan mudah memahami **seb
 ## Link
 Youtube : https://youtu.be/LEWjsBhR45Q
 
+---
+
+## Kontributor
+Billie Raditya Akbar 
+Hamzah Fachrudin M
+Imaddudin Ghozali
+Moh Mahmud Yunus
+Rio Permana M
 

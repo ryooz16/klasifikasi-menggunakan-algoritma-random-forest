@@ -67,4 +67,9 @@ Dengan visualisasi heatmap dan bar chart, kita dapat dengan mudah memahami **seb
 - Dataset berasal dari: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/wine)
 - Proyek ini bersifat edukatif dan eksploratif, cocok untuk belajar klasifikasi dan interpretasi model berbasis pohon.
 
+---
+
+## Link
+Youtube : https://youtu.be/LEWjsBhR45Q
+
 
